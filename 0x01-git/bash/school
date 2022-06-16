@@ -1,1 +1,3 @@
-The school is open!
+echo'#!/bin/bash'> school
+echo "The school is open!">>school
+
